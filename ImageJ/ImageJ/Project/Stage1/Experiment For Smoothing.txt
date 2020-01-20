@@ -1,0 +1,1 @@
+Gaussian Blurr radius 3.0 > Binary Layer > Median radius 2.0
